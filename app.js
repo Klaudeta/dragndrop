@@ -1,1 +1,2 @@
-console.log("Welcome!");
+"use strict";
+console.log("Welcome again!");
