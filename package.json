@@ -1,0 +1,26 @@
+{
+  "name": "dragndrop",
+  "version": "1.0.0",
+  "description": "Drag'n drop App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klaudeta/dragndrop.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Klaudeta Mertiku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Klaudeta/dragndrop/issues"
+  },
+  "homepage": "https://github.com/Klaudeta/dragndrop#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
